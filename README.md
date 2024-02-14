@@ -1,1 +1,1 @@
-# Innovation-project
+A  spin-off project repurposing voicebots for major retail applications. Enhanced customer communication through advanced language models, focusing on product traceability, quality control, and food safety. Emphasized Corporate Social Responsibility, promoting sustainable and ethical practices.
